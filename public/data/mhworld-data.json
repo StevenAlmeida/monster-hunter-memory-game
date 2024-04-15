@@ -1,0 +1,352 @@
+[
+  {
+    "id": "5e1566638a80af35ce52d747",
+    "name": "Acidic Glavenus",
+    "img": "MHWI-Acidic_Glavenus_Icon.png"
+  },
+  {
+    "id": "5e1581998a80af35ce52d776",
+    "name": "Alatreon",
+    "img": "MHWI-Alatreon_Icon.png"
+  },
+  {
+    "id": "5e158ce68a80af35ce52d78d",
+    "name": "Ancient Leshen",
+    "img": "MHW-Ancient_Leshen_Icon.png"
+  },
+  {
+    "id": "5e13357b25d9c11597488ae3",
+    "name": "Anjanath",
+    "img": "MHW-Anjanath_Icon.png"
+  },
+  {
+    "id": "5e15604e8a80af35ce52d73b",
+    "name": "Azure Rathalos",
+    "img": "MHW-Azure_Rathalos_Icon.png"
+  },
+  {
+    "id": "5e1565f28a80af35ce52d746",
+    "name": "Banbaro",
+    "img": "MHWI-Banbaro_Icon.png"
+  },
+  {
+    "id": "5dfc99059dabf81e7717cea5",
+    "name": "Barioth",
+    "img": "MHWI-Barioth_Icon.png"
+  },
+  {
+    "id": "5e1587a38a80af35ce52d783",
+    "name": "Barroth",
+    "img": "MHW-Barroth_Icon.png"
+  },
+  {
+    "id": "5e1568ef8a80af35ce52d74b",
+    "name": "Bazelgeuse",
+    "img": "MHW-Bazelgeuse_Icon.png"
+  },
+  {
+    "id": "5e158bb58a80af35ce52d78a",
+    "name": "Behemoth",
+    "img": "MHW-Behemoth_Icon.png"
+  },
+  {
+    "id": "5e156a238a80af35ce52d74d",
+    "name": "Beotodus",
+    "img": "MHWI-Beotodus_Icon.png"
+  },
+  {
+    "id": "5e1562ff8a80af35ce52d73f",
+    "name": "Black Diablos",
+    "img": "MHW-Black_Diablos_Icon.png"
+  },
+  {
+    "id": "5e15713d8a80af35ce52d758",
+    "name": "Blackveil Vaal Hazak",
+    "img": "MHWI-Blackveil_Vaal_Hazak_Icon.png"
+  },
+  {
+    "id": "5e143f3b8a80af35ce52d708",
+    "name": "Brachydios",
+    "img": "MHWI-Brachydios_Icon.png"
+  },
+  {
+    "id": "5e144d618a80af35ce52d715",
+    "name": "Brute Tigrex",
+    "img": "MHWI-Brute_Tigrex_Icon.png"
+  },
+  {
+    "id": "5e15c0058a80af35ce52d7aa",
+    "name": "Coral Pukei-Pukei",
+    "img": "MHWI-Coral_Pukei-Pukei_Icon.png"
+  },
+  {
+    "id": "5e1447e68a80af35ce52d713",
+    "name": "Deviljho",
+    "img": "MHW-Deviljho_Icon.png"
+  },
+  {
+    "id": "5e1336e225d9c11597488ae4",
+    "name": "Diablos",
+    "img": "MHW-Diablos_Icon.png"
+  },
+  {
+    "id": "5e144db78a80af35ce52d716",
+    "name": "Dodogama",
+    "img": "MHW-Dodogama_Icon.png"
+  },
+  {
+    "id": "5e1434cb8a80af35ce52d6fc",
+    "name": "Ebony Odogaron",
+    "img": "MHWI-Ebony_Odogaron_Icon.png"
+  },
+  {
+    "id": "5e1564268a80af35ce52d741",
+    "name": "Fatalis",
+    "img": "MHWI-Fatalis_Icon.png"
+  },
+  {
+    "id": "5f0dc6a7e1dab80a94e21619",
+    "name": "Frostfang Barioth",
+    "img": "MHWI-Frostfang_Barioth_Icon.png"
+  },
+  {
+    "id": "5e1572758a80af35ce52d75b",
+    "name": "Fulgur Anjanath",
+    "img": "MHWI-Fulgur_Anjanath_Icon.png"
+  },
+  {
+    "id": "5e157e328a80af35ce52d770",
+    "name": "Furious Rajang",
+    "img": "MHWI-Furious_Rajang_Icon.png"
+  },
+  {
+    "id": "5e13118625d9c11597488ada",
+    "name": "Glavenus",
+    "img": "MHWI-Glavenus_Icon.png"
+  },
+  {
+    "id": "5e132c9c25d9c11597488ae0",
+    "name": "Gold Rathian",
+    "img": "MHWI-Gold_Rathian_Icon.png"
+  },
+  {
+    "id": "5e158d7c8a80af35ce52d78f",
+    "name": "Great Girros",
+    "img": "MHW-Great_Girros_Icon.png"
+  },
+  {
+    "id": "5e1423038a80af35ce52d6e8",
+    "name": "Great Jagras",
+    "img": "MHW-Great_Jagras_Icon.png"
+  },
+  {
+    "id": "5e1419a88a80af35ce52d6e1",
+    "name": "Jyuratodus",
+    "img": "MHW-Jyuratodus_Icon.png"
+  },
+  {
+    "id": "5dfda37b9dabf81e7717cea8",
+    "name": "Kirin",
+    "img": "MHW-Kirin_Icon.png"
+  },
+  {
+    "id": "5dfda8049dabf81e7717ceac",
+    "name": "Kulu-Ya-Ku",
+    "img": "MHW-Kulu-Ya-Ku_Icon.png"
+  },
+  {
+    "id": "5e1453968a80af35ce52d71e",
+    "name": "Kulve Taroth",
+    "img": "MHW-Kulve_Taroth_Icon.png"
+  },
+  {
+    "id": "5e133bca25d9c11597488ae5",
+    "name": "Kushala Daora",
+    "img": "MHW-Kushala_Daora_Icon.png"
+  },
+  {
+    "id": "5dfc91659dabf81e7717cea2",
+    "name": "Lavasioth",
+    "img": "MHW-Lavasioth_Icon.png"
+  },
+  {
+    "id": "5e1452518a80af35ce52d71b",
+    "name": "Legiana",
+    "img": "MHW-Legiana_Icon.png"
+  },
+  {
+    "id": "5e158b318a80af35ce52d788",
+    "name": "Leshen",
+    "img": "MHW-Leshen_Icon.png"
+  },
+  {
+    "id": "5e1454d98a80af35ce52d720",
+    "name": "Lunastra",
+    "img": "MHW-Lunastra_Icon.png"
+  },
+  {
+    "id": "5e15786d8a80af35ce52d766",
+    "name": "Namielle",
+    "img": "MHWI-Namielle_Icon.png"
+  },
+  {
+    "id": "5e1432758a80af35ce52d6f6",
+    "name": "Nargacuga",
+    "img": "MHWI-Nargacuga_Icon.png"
+  },
+  {
+    "id": "5e158ca58a80af35ce52d78c",
+    "name": "Nergigante",
+    "img": "MHW-Nergigante_Icon.png"
+  },
+  {
+    "id": "5e1573608a80af35ce52d75e",
+    "name": "Nightshade Paolumu",
+    "img": "MHWI-Nightshade_Paolumu_Icon.png"
+  },
+  {
+    "id": "5dfc91d89dabf81e7717cea3",
+    "name": "Odogaron",
+    "img": "MHW-Odogaron_Icon.png"
+  },
+  {
+    "id": "5e156eb88a80af35ce52d754",
+    "name": "Paolumu",
+    "img": "MHW-Paolumu_Icon.png"
+  },
+  {
+    "id": "5e1436ca8a80af35ce52d6ff",
+    "name": "Pink Rathian",
+    "img": "MHW-Pink_Rathian_Icon.png"
+  },
+  {
+    "id": "5e15795e8a80af35ce52d768",
+    "name": "Pukei-Pukei",
+    "img": "MHW-Pukei-Pukei_Icon.png"
+  },
+  {
+    "id": "5e1564e38a80af35ce52d743",
+    "name": "Radobaan",
+    "img": "MHW-Radobaan_Icon.png"
+  },
+  {
+    "id": "5e1578ce8a80af35ce52d767",
+    "name": "Raging Brachydios",
+    "img": "MHWI-Raging_Brachydios_Icon.png"
+  },
+  {
+    "id": "5e1360b625d9c11597488af1",
+    "name": "Rajang",
+    "img": "MHWI-Rajang_Icon.png"
+  },
+  {
+    "id": "5e1322d725d9c11597488add",
+    "name": "Rathalos",
+    "img": "MHW-Rathalos_Icon.png"
+  },
+  {
+    "id": "5e13708225d9c11597488af2",
+    "name": "Rathian",
+    "img": "MHW-Rathian_Icon.png"
+  },
+  {
+    "id": "5e15bf5a8a80af35ce52d7a7",
+    "name": "Ruiner Nergigante",
+    "img": "MHWI-Ruiner_Nergigante_Icon.png"
+  },
+  {
+    "id": "5e15bf928a80af35ce52d7a8",
+    "name": "Safi'jiiva",
+    "img": "MHWI-Safijiiva_Icon.png"
+  },
+  {
+    "id": "5e1588618a80af35ce52d784",
+    "name": "Savage Deviljho",
+    "img": "MHWI-Savage_Deviljho_Icon.png"
+  },
+  {
+    "id": "5e15c12c8a80af35ce52d7ad",
+    "name": "Scarred Yian Garuga",
+    "img": "MHWI-Scarred_Yian_Garuga_Icon.png"
+  },
+  {
+    "id": "5e15c0438a80af35ce52d7ab",
+    "name": "Seething Bazelgeuse",
+    "img": "MHWI-Seething_Bazelgeuse_Icon.png"
+  },
+  {
+    "id": "5e15bfc68a80af35ce52d7a9",
+    "name": "Shara Ishvalda",
+    "img": "MHWI-Shara_Ishvalda_Icon.png"
+  },
+  {
+    "id": "5e1458fd8a80af35ce52d728",
+    "name": "Silver Rathalos",
+    "img": "MHWI-Silver_Rathalos_Icon.png"
+  },
+  {
+    "id": "5e1572198a80af35ce52d75a",
+    "name": "Stygian Zinogre",
+    "img": "MHWI-Stygian_Zinogre_Icon.png"
+  },
+  {
+    "id": "5e157add8a80af35ce52d769",
+    "name": "Teostra",
+    "img": "MHW-Teostra_Icon.png"
+  },
+  {
+    "id": "5e132e4225d9c11597488ae1",
+    "name": "Tigrex",
+    "img": "MHWI-Tigrex_Icon.png"
+  },
+  {
+    "id": "5e156f138a80af35ce52d755",
+    "name": "Tobi-Kadachi",
+    "img": "MHW-Tobi-Kadachi_Icon.png"
+  },
+  {
+    "id": "5e14560c8a80af35ce52d722",
+    "name": "Tzitzi-Ya-Ku",
+    "img": "MHW-Tzitzi-Ya-Ku_Icon.png"
+  },
+  {
+    "id": "5e143e4f8a80af35ce52d707",
+    "name": "Uragaan",
+    "img": "MHW-Uragaan_Icon.png"
+  },
+  {
+    "id": "5e155ed08a80af35ce52d737",
+    "name": "Vaal Hazak",
+    "img": "MHW-Vaal_Hazak_Icon.png"
+  },
+  {
+    "id": "5e156aab8a80af35ce52d74e",
+    "name": "Velkhana",
+    "img": "MHWI-Velkhana_Icon.png"
+  },
+  {
+    "id": "5e1565928a80af35ce52d745",
+    "name": "Viper Tobi-Kadachi",
+    "img": "MHWI-Viper_Tobi-Kadachi_Icon.png"
+  },
+  {
+    "id": "5e158ae08a80af35ce52d787",
+    "name": "Xeno'jiiva",
+    "img": "MHW-Xenojiiva_Icon.png"
+  },
+  {
+    "id": "5e1559948a80af35ce52d72f",
+    "name": "Yian Garuga",
+    "img": "MHWI-Yian_Garuga_Icon.png"
+  },
+  {
+    "id": "5e1429578a80af35ce52d6ed",
+    "name": "Zinogre",
+    "img": "MHWI-Zinogre_Icon.png"
+  },
+  {
+    "id": "5e1569978a80af35ce52d74c",
+    "name": "Zorah Magdaros",
+    "img": "MHW-Zorah_Magdaros_Icon.png"
+  }
+]

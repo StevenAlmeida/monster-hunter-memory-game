@@ -1,0 +1,392 @@
+[
+  {
+    "id": "6067120dbcd8bb76ea11b6b8",
+    "name": "Aknosom",
+    "img": "MHRise-Aknosom_Icon.png"
+  },
+  {
+    "id": "607e88681c899e0f3acd409b",
+    "name": "Almudron",
+    "img": "MHRise-Almudron_Icon.png"
+  },
+  {
+    "id": "5e1424a48a80af35ce52d6ec",
+    "name": "Amatsu",
+    "img": "MHRS-Amatsu_Icon.png"
+  },
+  {
+    "id": "5e13357b25d9c11597488ae3",
+    "name": "Anjanath",
+    "img": "MHRise-Anjanath_Icon.png"
+  },
+  {
+    "id": "608413b741460e8216704352",
+    "name": "Apex Arzuros",
+    "img": "MHRise-Apex_Arzuros_Icon.png"
+  },
+  {
+    "id": "608413b741460e8216704359",
+    "name": "Apex Diablos",
+    "img": "MHRise-Apex_Diablos_Icon.png"
+  },
+  {
+    "id": "6084142841460e8216704354",
+    "name": "Apex Mizutsune",
+    "img": "MHRise-Apex_Mizutsune_Icon.png"
+  },
+  {
+    "id": "6084142841460e8216704358",
+    "name": "Apex Rathalos",
+    "img": "MHRise-Apex_Rathalos_Icon.png"
+  },
+  {
+    "id": "6084142841460e8216704353",
+    "name": "Apex Rathian",
+    "img": "MHRise-Apex_Rathian_Icon.png"
+  },
+  {
+    "id": "6084142847460e8216704353",
+    "name": "Apex Zinogre",
+    "img": "MHRise-Apex_Zinogre_Icon.png"
+  },
+  {
+    "id": "5e1570f48a80af35ce52d757",
+    "name": "Arzuros",
+    "img": "MHRise-Arzuros_Icon.png"
+  },
+  {
+    "id": "5e142a928a80af35ce52d6ef",
+    "name": "Astalos",
+    "img": "MHRS-Astalos_Icon.png"
+  },
+  {
+    "id": "607d74421c899e0f3acd4a9a",
+    "name": "Aurora Somnacanth",
+    "img": "MHRS-Aurora_Somnacanth_Icon.png"
+  },
+  {
+    "id": "5dfc99059dabf81e7717cea5",
+    "name": "Barioth",
+    "img": "MHRise-Barioth_Icon.png"
+  },
+  {
+    "id": "5e1587a38a80af35ce52d783",
+    "name": "Barroth",
+    "img": "MHRise-Barroth_Icon.png"
+  },
+  {
+    "id": "5dfc6c6c9dabf81e7717ce9f",
+    "name": "Basarios",
+    "img": "MHRise-Basarios_Icon.png"
+  },
+  {
+    "id": "5e1568ef8a80af35ce52d74b",
+    "name": "Bazelgeuse",
+    "img": "MHRise-Bazelgeuse_Icon.png"
+  },
+  {
+    "id": "607a666674ab71e230b18b14",
+    "name": "Bishaten",
+    "img": "MHRise-Bishaten_Icon.png"
+  },
+  {
+    "id": "607a666674aba1e230b18b14",
+    "name": "Blood Orange Bishaten",
+    "img": "MHRS-Blood_Orange_Bishaten_Icon.png"
+  },
+  {
+    "id": "5e1456b28a80af35ce52d723",
+    "name": "Chameleos",
+    "img": "MHRise-Chameleos_Icon.png"
+  },
+  {
+    "id": "5e1567fb8a80af35ce52d749",
+    "name": "Chaotic Gore Magala",
+    "img": "MHRS-Chaotic_Gore_Magala_Icon.png"
+  },
+  {
+    "id": "5e1457f08a80af35ca52d726",
+    "name": "Crimson Glow Valstrax",
+    "img": "MHRise-Crimson_Glow_Valstrax_Icon.png"
+  },
+  {
+    "id": "5e157ca08a80af35ce52d76c",
+    "name": "Daimyo Hermitaur",
+    "img": "MHRS-Daimyo_Hermitaur_Icon.png"
+  },
+  {
+    "id": "5e1336e225d9c11597488ae4",
+    "name": "Diablos",
+    "img": "MHRise-Diablos_Icon.png"
+  },
+  {
+    "id": "5dff27fd9dabf81e7717cec1",
+    "name": "Espinas",
+    "img": "MHRS-Espinas_Icon.png"
+  },
+  {
+    "id": "5e15040e8a80af35ce52d75f",
+    "name": "Flaming Espinas",
+    "img": "MHRS-Flaming_Espinas_Icon.png"
+  },
+  {
+    "id": "5e157e328a80af35ce52d770",
+    "name": "Furious Rajang",
+    "img": "MHRS-Furious_Rajang_Icon.png"
+  },
+  {
+    "id": "5e157e328a80af359e52d770",
+    "name": "Gaismagorm",
+    "img": "MHRS-Gaismagorm.png"
+  },
+  {
+    "id": "5e1423ee8a80af35ce52d6eb",
+    "name": "Garangolm",
+    "img": "MHRS-Garangolm.png"
+  },
+  {
+    "id": "5e132c9c25d9c11597488ae0",
+    "name": "Gold Rathian",
+    "img": "MHRS-Gold_Rathian_Icon.png"
+  },
+  {
+    "id": "5e15ba038a80af35ce52d79c",
+    "name": "Gore Magala",
+    "img": "MHRS-Gore_Magala_Icon.png"
+  },
+  {
+    "id": "607e89e01c899e0f3acd409c",
+    "name": "Goss Harag",
+    "img": "MHRise-Goss_Harag_Icon.png"
+  },
+  {
+    "id": "5e1423578a80af35ce52d6ea",
+    "name": "Great Baggi",
+    "img": "MHRise-Great_Baggi_Icon.png"
+  },
+  {
+    "id": "6008e4cafb2d26938389447d",
+    "name": "Great Izuchi",
+    "img": "MHRise-Great_Izuchi_Icon.png"
+  },
+  {
+    "id": "5e143c508a80af35ce52d704",
+    "name": "Great Wroggi",
+    "img": "MHRise-Great_Wroggi_Icon.png"
+  },
+  {
+    "id": "5e1419a88a80af35ce52d6e1",
+    "name": "Jyuratodus",
+    "img": "MHRise-Jyuratodus_Icon.png"
+  },
+  {
+    "id": "5e131daa25d9c11597488adb",
+    "name": "Khezu",
+    "img": "MHRise-Khezu_Icon.png"
+  },
+  {
+    "id": "5dfda8049dabf81e7717ceac",
+    "name": "Kulu-Ya-Ku",
+    "img": "MHRise-Kulu-Ya-Ku_Icon.png"
+  },
+  {
+    "id": "5e133bca25d9c11597488ae5",
+    "name": "Kushala Daora",
+    "img": "MHRise-Kushala_Daora_Icon.png"
+  },
+  {
+    "id": "5e156fcd8a80af35ce52d756",
+    "name": "Lagombi",
+    "img": "MHRise-Lagombi_Icon.png"
+  },
+  {
+    "id": "5e157b318a80af35ce52d788",
+    "name": "Lucent Nargacuga",
+    "img": "MHRS-Lucent_Nargacuga_Icon.png"
+  },
+  {
+    "id": "607e89e01c399e0f3acd409c",
+    "name": "Lunagaron",
+    "img": "MHRS-Lunagaron_Icon.png"
+  },
+  {
+    "id": "607e89e01c899e0f3acd4092",
+    "name": "Magma Almudron",
+    "img": "MHRS-Magma_Almudron_Icon.png"
+  },
+  {
+    "id": "604f1141120ad70edb880c13",
+    "name": "Magnamalo",
+    "img": "MHRise-Magnamalo_Icon.png"
+  },
+  {
+    "id": "607e89e01c899e0f3aca409c",
+    "name": "Malzeno",
+    "img": "MHRS-Malzeno_Icon.png"
+  },
+  {
+    "id": "5e142a028a80af35ce52d6ee",
+    "name": "Mizutsune",
+    "img": "MHRise-Mizutsune_Icon.png"
+  },
+  {
+    "id": "5e1432758a80af35ce52d6f6",
+    "name": "Nargacuga",
+    "img": "MHRise-Nargacuga_Icon.png"
+  },
+  {
+    "id": "5e143275aa80af35ce52d6f6",
+    "name": "Narwa the Allmother",
+    "img": "MHRise-Narwa_The_Allmother_Icon.png"
+  },
+  {
+    "id": "607e89e01c89ae0f3aca409c",
+    "name": "Primordial Malzeno",
+    "img": "MHRS-Primordial_Malzeno_Icon.png"
+  },
+  {
+    "id": "5e15795e8a80af35ce52d768",
+    "name": "Pukei-Pukei",
+    "img": "MHRise-Pukei-Pukei_Icon.png"
+  },
+  {
+    "id": "607e89e01c829e0f3acd409c",
+    "name": "Pyre Rakna-Kadaki",
+    "img": "MHRS-Pyre_Rakna-Kadaki_Icon.png"
+  },
+  {
+    "id": "5e1360b625d9c11597488af1",
+    "name": "Rajang",
+    "img": "MHRise-Rajang_Icon.png"
+  },
+  {
+    "id": "607e8d391c899e0f3acd409d",
+    "name": "Rakna-Kadaki",
+    "img": "MHRise-Rakna-Kadaki_Icon.png"
+  },
+  {
+    "id": "5e1322d725d9c11597488add",
+    "name": "Rathalos",
+    "img": "MHRise-Rathalos_Icon.png"
+  },
+  {
+    "id": "5e13708225d9c11597488af2",
+    "name": "Rathian",
+    "img": "MHRise-Rathian_Icon.png"
+  },
+  {
+    "id": "5e15740e8a80af3cce52d75f",
+    "name": "Risen Chameleos",
+    "img": "MHRS-Risen_Chameleos_Icon.png"
+  },
+  {
+    "id": "5e15740e8a80af3aae52d75f",
+    "name": "Risen Kushala Daora",
+    "img": "MHRS-Risen_Kushala_Daora_Icon.png"
+  },
+  {
+    "id": "5e15740e8a80af3aae52a75f",
+    "name": "Risen Shagaru Magala",
+    "img": "MHRS-Risen_Shagaru_Magala_Icon.png"
+  },
+  {
+    "id": "5e157add8a80ff35ce52d769",
+    "name": "Risen Teostra",
+    "img": "MHRS-Risen_Teostra_Icon.png"
+  },
+  {
+    "id": "5e157add8a80ff35ce52d764",
+    "name": "Risen Crimson Glow Valstrax",
+    "img": "MHRS-Risen_Crimson_Glow_Valstrax_Icon.png"
+  },
+  {
+    "id": "5e141a5b8a80af35ce52d6e2",
+    "name": "Royal Ludroth",
+    "img": "MHRise-Royal_Ludroth_Icon.png"
+  },
+  {
+    "id": "607e89e01c869e0f3acd409c",
+    "name": "Scorned Magnamalo",
+    "img": "MHRS-Scorned_Magnamalo_Icon.png"
+  },
+  {
+    "id": "5e15c0438a80af35ce52d7ab",
+    "name": "Seething Bazelgeuse",
+    "img": "MHRS-Seething_Bazelgeuse_Icon.png"
+  },
+  {
+    "id": "5e1418e58a80af35ce52d6e0",
+    "name": "Seregios",
+    "img": "MHRS-Seregios_Icon.png"
+  },
+  {
+    "id": "5e1588d88a80af35ce52d785",
+    "name": "Shagaru Magala",
+    "img": "MHRS-Shagaru_Magala_Icon.png"
+  },
+  {
+    "id": "5e157dec8a80af35ce52d76f",
+    "name": "Shogun Ceanataur",
+    "img": "MHRS-Shogun_Ceanataur_Icon.png"
+  },
+  {
+    "id": "5e1458fd8a80af35ce52d728",
+    "name": "Silver Rathalos",
+    "img": "MHRS-Silver_Rathalos_Icon.png"
+  },
+  {
+    "id": "607d74421c899e0f3acd409a",
+    "name": "Somnacanth",
+    "img": "MHRise-Somnacanth_Icon.png"
+  },
+  {
+    "id": "5e157add8a80af35ce52d769",
+    "name": "Teostra",
+    "img": "MHRise-Teostra_icon.png"
+  },
+  {
+    "id": "6069547d7e190896f4a83816",
+    "name": "Tetranadon",
+    "img": "MHRise-Tetranadon_Icon.png"
+  },
+  {
+    "id": "60608cd2efac50a2f809c1c9",
+    "name": "Thunder Serpent Narwa",
+    "img": "MHRise-Thunder_Serpent_Narwa_Icon.png"
+  },
+  {
+    "id": "5e132e4225d9c11597488ae1",
+    "name": "Tigrex",
+    "img": "MHRise-Tigrex_Icon.png"
+  },
+  {
+    "id": "5e156f138a80af35ce52d755",
+    "name": "Tobi-Kadachi",
+    "img": "MHRise-Tobi-Kadachi_Icon.png"
+  },
+  {
+    "id": "5e156aab8a80af35ce52d74e",
+    "name": "Velkhana",
+    "img": "MHRS-Velkhana_Icon.png"
+  },
+  {
+    "id": "5e15740e8a80af3ace52d75f",
+    "name": "Violet Mizutsune",
+    "img": "MHRS-Violet_Mizutsune_Icon.png"
+  },
+  {
+    "id": "5e143a4f8a80af35ce52d701",
+    "name": "Volvidon",
+    "img": "MHRise-Volvidon_Icon.png"
+  },
+  {
+    "id": "60799c7bc1dbb4bf8d8288ae",
+    "name": "Wind Serpent Ibushi",
+    "img": "MHRise-Wind_Serpent_Ibushi_Icon.png"
+  },
+  {
+    "id": "5e1429578a80af35ce52d6ed",
+    "name": "Zinogre",
+    "img": "MHRise-Zinogre_Icon.png"
+  }
+]
